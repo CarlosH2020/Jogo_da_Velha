@@ -7,7 +7,7 @@ package jogo_da_velha;
 
 /**
  *
- * @author Root
+ * @author Carlos Henrique 
  */
 public class JogoDaVelha {
 
